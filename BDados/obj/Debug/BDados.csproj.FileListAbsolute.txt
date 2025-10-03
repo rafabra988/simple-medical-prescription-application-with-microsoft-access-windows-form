@@ -1,0 +1,17 @@
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\obj\Debug\BDados.exe
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\obj\Debug\BDados.pdb
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\bin\Debug\BDados.exe
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\bin\Debug\BDados.pdb
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\obj\Debug\ResolveAssemblyReference.cache
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\obj\Debug\BDados.Form1.resources
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\obj\Debug\BDados.Properties.Resources.resources
+D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados\obj\Debug\BDados.csproj.GenerateResource.Cache
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\bin\Debug\BDados.exe
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\bin\Debug\BDados.pdb
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.Form1.resources
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.Properties.Resources.resources
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.csproj.GenerateResource.cache
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.exe
+C:\Users\carlo\OneDrive\2024-2025\2024_Carlos\UERJ\2025-1\Eletiva\BDados\BDados\obj\Debug\BDados.pdb

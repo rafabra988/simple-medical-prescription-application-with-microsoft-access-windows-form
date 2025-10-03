@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BDados">
+</Property><Property Name="Solution File" Value="D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados.sln">
+</Property><Property Name="User Options File" Value="D:\Antigos\Sicsú\KingGuto\S2B\BDados\BDados.suo">
+</Property><Property Name="Date" Value="sábado, 15 de março de 2008">
+</Property><Property Name="Time" Value="12:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BDados.sln" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BDados.suo" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados.suo">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\BDados.csproj" Description="Project file successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\BDados.csproj">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Form1.cs" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Form1.Designer.cs" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Program.cs" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Program.cs">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Properties\Settings.settings" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Form1.resx" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\Properties\Resources.resx" Description="File successfully backed up as D:\Antigos\Sicsú\KingGuto\S2B\BDados\Backup\BDados\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\BDados.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BDados" Source="BDados\BDados.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BDados.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BDados.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BDados" Source="BDados\BDados.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

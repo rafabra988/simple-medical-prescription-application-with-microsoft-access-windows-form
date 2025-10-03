@@ -1,0 +1,16 @@
+obj\Debug\BDados.exe
+obj\Debug\BDados.pdb
+bin\Debug\BDados.exe
+bin\Debug\BDados.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BDados.Form1.resources
+obj\Debug\BDados.Properties.Resources.resources
+obj\Debug\BDados.csproj.GenerateResource.Cache
+bin\Release\BDados.exe
+bin\Release\BDados.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\BDados.Form1.resources
+obj\Release\BDados.Properties.Resources.resources
+obj\Release\BDados.csproj.GenerateResource.Cache
+obj\Release\BDados.exe
+obj\Release\BDados.pdb
